@@ -1,0 +1,16 @@
+{
+    "extends": "./tsconfig-custom.json",
+    "compilerOptions": {
+      "rootDir": "./src",
+      "outDir": "./dist",
+    },
+    "include": [
+      "src/**/*.ts",
+      "test/**/*.ts"
+    ],
+    "exclude": [
+      "test/fixtures/**/*.*",
+      "template/**/*.*",
+    ]
+  }
+

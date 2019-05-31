@@ -1,0 +1,802 @@
+[
+	{
+		"startingDay": "5345-07-05T08:08:22.037Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5312-07-11T01:04:09.057Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5580-07-19T06:50:32.267Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7001-06-14T09:20:32.466Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6939-04-22T20:15:48.138Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7247-09-16T10:32:04.126Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5112-02-27T16:01:52.074Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6322-05-19T07:47:56.767Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3463-09-02T01:09:23.318Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3417-07-31T21:06:28.226Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2939-10-05T12:21:43.658Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6973-10-23T03:17:47.291Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4343-04-10T23:45:27.760Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7365-11-29T04:28:05.660Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6449-06-24T17:05:02.757Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5952-07-02T14:03:42.677Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5320-07-18T19:44:42.623Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6250-08-26T00:57:20.915Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6639-06-28T09:38:41.038Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6900-07-31T11:23:02.983Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3416-12-16T15:01:57.596Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6494-05-09T23:36:04.046Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5958-04-27T14:45:15.287Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7291-01-21T11:43:00.505Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5462-07-27T01:21:38.295Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6095-08-03T07:13:26.433Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3647-05-22T01:13:36.099Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4902-07-24T20:53:20.792Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4158-10-16T20:34:31.779Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2673-09-21T23:03:13.180Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5523-10-25T16:14:41.670Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6413-12-20T06:56:13.166Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2051-12-14T04:11:44.153Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4635-02-16T01:02:21.471Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5284-03-05T12:42:43.548Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6130-04-03T00:47:59.451Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7482-01-03T00:22:44.845Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3293-12-11T12:21:01.623Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7477-06-15T19:50:40.462Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4961-01-22T15:21:13.938Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7208-10-25T12:44:15.225Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3355-02-10T20:19:31.499Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5651-03-01T00:06:28.462Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5050-05-23T17:34:47.550Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4130-10-05T04:40:11.698Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3866-09-19T18:29:26.842Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4061-09-10T19:21:38.944Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2675-08-02T15:15:35.646Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3032-04-07T06:40:16.859Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5824-03-08T20:01:18.388Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2994-05-10T02:10:57.817Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6323-05-11T22:30:30.965Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6616-04-25T08:34:04.645Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5870-09-22T04:28:35.670Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3750-03-10T13:59:57.959Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7397-08-04T23:40:16.352Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2959-02-07T05:35:24.852Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4348-08-13T20:25:36.222Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5595-12-14T21:05:50.849Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3340-01-11T07:16:22.851Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6770-12-30T01:11:05.232Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4552-12-20T20:57:09.672Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4238-10-29T03:55:11.101Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4127-08-29T21:48:43.674Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2226-12-05T10:08:11.234Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5707-01-27T23:49:39.636Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2655-01-31T00:07:37.099Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2448-01-13T15:37:29.507Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4293-06-03T02:20:45.299Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5356-08-03T08:27:09.073Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2816-05-11T01:03:21.566Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4883-05-11T23:56:00.417Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4749-12-09T02:53:52.881Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5031-07-30T22:54:33.281Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2734-04-10T05:38:05.842Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4894-11-18T02:48:40.663Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2363-05-15T04:01:38.667Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4987-06-14T00:00:42.855Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3891-09-30T14:42:01.818Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7234-04-20T10:45:43.730Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2571-01-30T17:39:46.650Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3773-07-01T02:37:42.457Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6263-06-08T08:29:28.948Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4385-03-27T06:33:40.571Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2659-03-24T05:13:23.293Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6899-01-15T22:44:12.393Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2114-09-27T16:30:35.465Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7446-05-29T09:51:34.893Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3141-11-17T09:29:35.396Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4213-04-08T07:47:50.052Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5893-06-18T07:25:06.226Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2583-11-20T20:23:40.139Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4939-01-17T07:08:38.419Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4803-04-21T14:39:19.331Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4125-07-11T20:14:25.033Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7394-08-17T11:14:25.831Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7143-06-25T18:00:38.597Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6738-03-19T17:50:35.307Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4599-09-07T12:38:37.617Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2047-07-12T02:35:00.549Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2782-04-08T16:33:09.191Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6078-03-08T10:00:33.802Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2378-03-27T18:32:17.355Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4701-08-06T21:32:21.961Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6875-09-14T08:25:37.803Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4518-12-22T09:21:36.473Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2534-04-15T06:50:28.786Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2369-05-12T07:25:24.494Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4736-10-09T19:05:53.235Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6145-08-22T10:22:00.595Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2772-03-10T10:04:03.193Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6392-08-14T16:22:41.408Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6863-10-14T10:57:42.676Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6999-05-12T19:58:56.247Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6019-11-13T02:04:42.873Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4662-06-09T00:37:49.561Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3800-04-10T01:26:44.548Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4471-09-17T09:29:22.190Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3529-05-24T15:19:53.574Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4196-05-06T08:02:09.998Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5170-11-21T03:46:29.465Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6229-02-17T04:27:22.637Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7483-07-15T00:42:58.652Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4473-11-20T14:30:20.228Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3082-07-11T20:22:19.052Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6256-02-18T16:49:39.137Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6880-01-14T10:45:37.826Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "6970-06-17T10:37:40.742Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5713-07-06T12:08:00.300Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5923-12-30T15:43:52.374Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7285-11-21T05:36:15.664Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6191-12-27T12:15:09.181Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5260-07-27T08:23:24.698Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4469-08-08T17:34:04.047Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6823-04-13T22:47:10.888Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2040-03-23T01:15:13.026Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3964-12-31T00:22:48.193Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3988-09-13T05:39:13.236Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5693-01-18T06:04:16.816Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4010-02-07T22:33:20.462Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3133-06-10T15:55:43.220Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7191-10-08T12:37:58.841Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3057-10-19T00:21:18.628Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4160-07-15T20:01:46.194Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6746-07-21T08:11:22.484Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3185-11-13T09:37:03.735Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2277-10-24T17:54:31.663Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7320-07-15T09:14:19.135Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7219-11-12T14:22:11.914Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3551-10-10T20:30:46.655Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5399-10-19T04:30:56.271Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6516-12-20T06:15:01.343Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6079-06-12T08:15:06.635Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4482-01-09T01:39:44.118Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4946-04-27T09:00:48.795Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3230-12-01T10:33:17.013Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3901-12-12T21:38:29.410Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4355-07-30T13:32:49.129Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2102-12-02T03:21:30.660Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2047-07-26T02:48:33.982Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4331-12-02T02:32:28.347Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2894-04-17T04:48:29.407Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5761-01-25T03:32:23.368Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4495-06-28T20:18:21.039Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6359-04-20T06:55:19.582Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4178-09-27T04:49:38.324Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2791-10-24T07:29:33.299Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4774-01-15T18:54:18.418Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5026-08-01T11:25:20.626Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2669-03-01T16:49:02.783Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2484-01-13T21:16:11.309Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4769-01-28T20:27:27.770Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "5308-10-16T19:15:17.635Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "2648-01-06T05:05:26.752Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "7280-02-20T08:47:52.361Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "6650-04-24T12:46:11.364Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5310-11-28T16:55:48.523Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4030-06-22T09:24:52.594Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "4005-02-13T18:45:08.871Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6241-05-08T16:16:53.567Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7267-11-17T02:35:53.254Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2225-03-06T21:04:23.783Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "2768-08-29T17:33:13.633Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5748-11-24T10:49:53.560Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "7125-04-28T00:29:18.344Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5847-04-07T17:10:25.370Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3503-06-15T00:26:01.996Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "2951-09-27T14:46:31.858Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4482-02-01T05:51:45.267Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "5782-06-14T20:46:10.764Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4872-11-24T21:11:18.087Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "3347-08-31T03:16:47.868Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "3092-09-20T08:28:30.811Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "6540-05-17T12:33:18.912Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4041-10-02T09:15:37.448Z",
+		"duration": 1001
+	},
+	{
+		"startingDay": "3321-08-20T20:19:00.363Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "4335-07-02T01:33:36.322Z",
+		"duration": 1000
+	},
+	{
+		"startingDay": "4654-10-14T10:59:50.417Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "7162-12-05T02:48:01.891Z",
+		"duration": 999
+	},
+	{
+		"startingDay": "5410-03-19T15:04:45.437Z",
+		"duration": 999
+	}
+]

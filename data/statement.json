@@ -1,0 +1,23 @@
+[
+    {
+		"startingDay": "2018-01-03T00:00:00.000Z",
+		"duration": 5
+	},
+	{
+		"startingDay": "2018-01-09T00:00:00.000Z",
+		"duration": 2
+	},
+	{
+		"startingDay": "2018-01-24T00:00:00.000Z",
+		"duration": 5
+	},
+	{
+		"startingDay": "2018-01-16T00:00:00.000Z",
+		"duration": 9
+	},
+	{
+		"startingDay": "2018-01-11T00:00:00.000Z",
+		"duration": 6
+	}
+
+]
