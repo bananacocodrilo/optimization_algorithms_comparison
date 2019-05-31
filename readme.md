@@ -37,13 +37,4 @@ Interestingly enough the "monster case" is faster to solve than the "lots of day
 
 ## Next steps
 
-Trying a genetic algorythm. 
-
-The implementation should be pretty straight foward:
-  - Population size could be over 1000 effortlessly.
-  - Genotype: An array with a particular order for all the tasks.
-  - Phenotype: Tasks selected. Following the genotype order, if a task still can be selected it is, if not it is skipped.
-  - Fitness function: exponential using the amount of tasks executed as score.
-  - Crossover: Select half of the genoma of the first parent, after that fill the remaining tasks in the same order as they appear in the second parent.
-  - Mutation: Randomly swap two elements.
-  - Termination: Maybe a time limit to be safe, also a max amount of generations without improvement.
+Tweak the numbers for the genetyc algorythm
