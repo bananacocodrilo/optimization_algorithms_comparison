@@ -16,9 +16,9 @@ Now you can solve a problem like this:
 
 `$ node dist/main.js --simple=f --file=data/manyDays.json`
 
-Use the --file flag to specify the file containing the data for the problem.
+Use the `--file` flag to specify the file containing the data for the problem.
 
-By default it will solve the problem by branch and cut. If the --simple flag is set to false it will solve the problem by brute force too and then compare results.
+By default it will solve the problem by branch and cut. If the `--simple` flag is set to false it will solve the problem by brute force too and then compare results.
 
 
 
