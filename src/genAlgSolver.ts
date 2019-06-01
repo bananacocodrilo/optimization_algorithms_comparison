@@ -10,7 +10,7 @@ export class GenAlgSolver {
     calendar: Day[];
     tasks: Task[];
     startingDay: number;
-    
+
     genSize: number; // Algorythm configuration variables 
     timeout: number;
     genTimeOut: number;
@@ -18,12 +18,12 @@ export class GenAlgSolver {
 
     specimens: Specie[] = []; // Specimens for the evolution
 
-    
-    constructor(problem: Problem, genSize = 50, timeout = 1500, genTimeOut = 3, mutationRate = 0.1) {       
+
+    constructor(problem: Problem, genSize = 100, timeout = 3000, genTimeOut = 999, mutationRate = 0.51) {       
         this.tasks = [...problem.tasks];
         this.calendar = problem.days;
         this.startingDay = problem.startingDay;
-    
+
         this.genSize = genSize;
         this.timeout = Date.now() + timeout;
         this.genTimeOut = genTimeOut;
@@ -43,9 +43,8 @@ export class GenAlgSolver {
                 calendar: this.copyCalendar(),
             });
         }
-    
     }
-    
+
 
 
 
@@ -78,14 +77,14 @@ export class GenAlgSolver {
             if (currentBest > previousBest) { 
                 previousBest = currentBest;
                 lastImprovement = genIndex;
-            }
-            genIndex++;
-                
-        
-            console.log(`genIndex ${genIndex}, currentBest ${currentBest}`);
+                console.log(`Improvement in gen ${genIndex}; currentBest: ${currentBest}`);
 
+            }
+            genIndex++;   
         }
 
+        console.log(genIndex);
+        
         // Return the max amount of tasks we've been able to execute
         return previousBest;
     }
