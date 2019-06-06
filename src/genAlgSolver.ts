@@ -1,7 +1,7 @@
 import { Problem, Day, Task, Specie } from "./interfaces";
 
 /*
- *   Solves the problem aplying a genetic algorythm. 
+ *   Solves the problem aplying a genetic algorithm. 
  * 
  */
 
@@ -11,7 +11,7 @@ export class GenAlgSolver {
     tasks: Task[];
     startingDay: number;
 
-    genSize: number; // Algorythm configuration variables 
+    genSize: number; // algorithm configuration variables 
     timeout: number;
     genTimeOut: number;
     mutationRate: number;
